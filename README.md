@@ -1,0 +1,1 @@
+This repo was created for trying to reproduce https://github.com/rollup/rollup-plugin-node-resolve/issues/181
